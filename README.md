@@ -15,8 +15,8 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 
 ## 🌟 À propos de moi
+- 🧔 Ylan, 22 ans
 - 🏡 Rouen
-- 🎉 22 ans
 - CV : 
     - DUT MMI
     - Bachelor Chef de projets digitaux – Développement Web [🌍](https://normandiewebschool.fr/formations/bachelors/bachelor-chef-de-projets-digitaux-developpement-web/)
