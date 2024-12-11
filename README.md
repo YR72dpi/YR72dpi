@@ -1,7 +1,7 @@
 <div id="header" align="center" style="border-radius: 15px;">
 <img src="https://avatars.githubusercontent.com/u/46999067?v=4" width="100"/>
   
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/yr72dpi/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@yr72dpi)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@yr72dpi)
 
 [![Threads](https://img.shields.io/badge/Sponsor-%40YR72dpi-blue?style=flat&logo=github)
 ](https://www.buymeacoffee.com/yr72dpi)
@@ -16,6 +16,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 ## 🌟 À propos de moi
 - 🏡 Rouen
+- 🎉 22 ans
 - CV : 
     - DUT MMI
     - Bachelor Chef de projets digitaux – Développement Web [🌍](https://normandiewebschool.fr/formations/bachelors/bachelor-chef-de-projets-digitaux-developpement-web/)
