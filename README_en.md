@@ -18,25 +18,25 @@
 </div>
 
 
-# 👋 Bonjour
+# 👋 Hello
 
-Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
+Welcome to my GitHub profile! Here's a brief overview of what I do.
 
 
-## 🌟 À propos de moi
-- 🧔 Ylan, 22 ans
+## 🌟 About Me
+- 🧔 Ylan, 22 years old
 - 🏡 Rouen
-- CV : 
+- CV:
     - DUT MMI
-    - Bachelor Chef de projets digitaux – Développement Web [🌍](https://normandiewebschool.fr/formations/bachelors/bachelor-chef-de-projets-digitaux-developpement-web/)
-    - Mastère Lead Développeur Full Stack (EEMI) [🌍](https://normandiewebschool.fr/formations/masteres/mastere-architecte-solutions/)
-- 🏢 En alternance qui [Recov'Up](https://recovup.fr/)
-- 🌱 Je suis actuellement en train d'apprendre Go, Traefik.
-- 💼 Actuellement, je travaille sur [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
-- 🎯 Mes objectifs : me faire kiffer sur des projets sympa
-- ⚡ Fun fact : j'ai plombé un serveur en activant ufw sans autorisé le port ssh 🤡
+    - Bachelor in Digital Project Management – Web Development [🌍](https://normandiewebschool.fr/formations/bachelors/bachelor-chef-de-projets-digitaux-developpement-web/)
+    - Master's in Full Stack Developer (EEMI) [🌍](https://normandiewebschool.fr/formations/masteres/mastere-architecte-solutions/)
+- 🏢 Currently working as an apprentice at [Recov'Up](https://recovup.fr/)
+- 🌱 I am currently learning Go, Traefik.
+- 💼 Currently working on [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
+- 🎯 My goals: to have fun with cool projects.
+- ⚡ Fun fact: I broke a server by enabling ufw without allowing the ssh port 🤡
 
-## 🛠️ Langages et outils en vrac
+## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -62,7 +62,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 ![PM2](https://img.shields.io/badge/-PM2-2B2B2B?logo=pm2&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat-square)
 
-## 📊 Mes statistiques GitHub
+## 📊 My GitHub Statistics
 
 <img src="" alt="" />
 
