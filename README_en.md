@@ -1,9 +1,5 @@
 <div align="right">
-<a href="README.md">
-    <img src="https://flagcdn.com/fr.svg" style=";height: 15px;" alt="Francais">
-</a><a href="README_en.md">
-    <img src="https://flagcdn.com/gb.svg" style=";height: 15px;" alt="English"> 
-</a>
+<a href="README.md"><img src="https://flagcdn.com/fr.svg" style=";height: 15px;" alt="Francais"></a><a href="README_en.md"><img src="https://flagcdn.com/gb.svg" style=";height: 15px;" alt="English"></a>
 </div>
 
 <div id="header" align="center">
