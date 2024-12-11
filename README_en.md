@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-<img src="https://avatars.githubusercontent.com/u/46999067?v=4" style="border-radius: 100%;" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/46999067?v=4" style="border-radius: 15px;" width="100"/>
   
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
 
