@@ -2,17 +2,6 @@
 <a href="README.md"><img src="https://flagcdn.com/fr.svg" style=";height: 15px;" alt="Francais"></a><a href="README_en.md"><img src="https://flagcdn.com/gb.svg" style=";height: 15px;" alt="English"></a>
 </div>
 
-<div id="header" align="center">
-<img src="https://avatars.githubusercontent.com/u/46999067?v=4" style="border-radius: 15px;" width="100"/>
-  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
-
-[![Threads](https://img.shields.io/badge/Sponsor-%40YR72dpi-blue?style=flat&logo=github)
-](https://www.buymeacoffee.com/yr72dpi)
-
-</div>
-
-
 # 👋 Hello
 
 Welcome to my GitHub profile! Here's a brief overview of what I do.
@@ -67,5 +56,17 @@ Welcome to my GitHub profile! Here's a brief overview of what I do.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YR72dpi?cardType=level&theme=default&preferLogin=false&border=false)](https://git.io/awesome-stats-card)
 ![YR72dpi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YR72dpi&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<br>
+<div id="header" align="center">
+  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
+
+[![Threads](https://img.shields.io/badge/Sponsor-%40YR72dpi-blue?style=flat&logo=github)
+](https://www.buymeacoffee.com/yr72dpi)
 
 </div>
