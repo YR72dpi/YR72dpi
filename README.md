@@ -25,7 +25,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
     - DUT MMI
     - Bachelor Chef de projets digitaux – Développement Web [🌍](https://normandiewebschool.fr/formations/bachelors/bachelor-chef-de-projets-digitaux-developpement-web/)
     - Mastère Lead Développeur Full Stack (EEMI) [🌍](https://normandiewebschool.fr/formations/masteres/mastere-architecte-solutions/)
-- 🏢 En alternance qui [Recov'Up](https://recovup.fr/)
+- 🏢 En alternance chez [Recov'Up](https://recovup.fr/)
 - 🌱 Je suis actuellement en train d'apprendre Go, Traefik.
 - 💼 Actuellement, je travaille sur [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
 - 🎯 Mes objectifs : me faire kiffer sur des projets sympa
