@@ -45,7 +45,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 ![FileZilla](https://img.shields.io/badge/-FileZilla-FF0000?logo=filezilla&logoColor=white&style=flat-square)
 ![PM2](https://img.shields.io/badge/-PM2-2B2B2B?logo=pm2&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/chat-GPT-blue)
+![chatGPT](https://img.shields.io/badge/chat-GPT-blue)
 
 ## 📊 Mes statistiques GitHub
 
