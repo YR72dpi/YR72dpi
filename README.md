@@ -1,9 +1,9 @@
-<div align="right">
+<!-- <header align="right">
   <a href="README.md"><img src="https://flagcdn.com/fr.svg" height="15" alt="Français"></a>
   <a href="README_en.md"><img src="https://flagcdn.com/gb.svg" height="15" alt="English"></a>
-</div>
+</header>
 
----
+--- -->
 
 # 👋 Bonjour
 
