@@ -1,24 +1,33 @@
-<div align="right">
+<!-- <div align="right">
 <a href="README.md"><img src="https://flagcdn.com/fr.svg" style=";height: 15px;" alt="Francais"></a><a href="README_en.md"><img src="https://flagcdn.com/gb.svg" style=";height: 15px;" alt="English"></a>
-</div>
+</div> -->
+
+<section>
 
 # 👋 Bonjour
 
 Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
+</section>
+
+<section>
 
 ## 🌟 À propos de moi
 - 🧔 Ylan, 22 ans
 - 🏡 Rouen
-- CV : 
+<!-- - CV : 
     - DUT MMI
     - Bachelor Chef de projets digitaux – Développement Web [🌍](https://normandiewebschool.fr/formations/bachelors/bachelor-chef-de-projets-digitaux-developpement-web/)
-    - Mastère Lead Développeur Full Stack (EEMI) [🌍](https://normandiewebschool.fr/formations/masteres/mastere-architecte-solutions/)
-- 🏢 En alternance chez [Recov'Up](https://recovup.fr/)
+    - Mastère Lead Développeur Full Stack (EEMI) [🌍](https://normandiewebschool.fr/formations/masteres/mastere-architecte-solutions/)-->
+- 🏢 En alternance chez [Recov'Up](https://recovup.fr/) 
 - 🌱 Je suis actuellement en train d'apprendre Go, Traefik.
 - 💼 Actuellement, je travaille sur [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
 - 🎯 Mes objectifs : me faire kiffer sur des projets sympa
 - ⚡ Fun fact : j'ai plombé un serveur en activant ufw sans autorisé le port ssh 🤡
+
+</section>
+
+<section>
 
 ## 🛠️ Langages et outils en vrac
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -58,27 +67,38 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![chatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
 
+</section>
+
+<section>
 
 ## 📊 Mes statistiques GitHub
 
-<img src="" alt="" />
-
-<div align="center">
+<div style="display: flex; justify-content: center;">
 
 ![YR72dpi's Repos Contributions](https://ghchart.rshah.org/YR72dpi)
 
+</div>
+
+<div style="display: flex; justify-content: center;">
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YR72dpi?cardType=level&theme=default&preferLogin=false&border=false)](https://git.io/awesome-stats-card)
+
+</div>
+
+<div style="display: flex; justify-content: center;">
+
 ![YR72dpi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YR72dpi&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+</section>
 
 ---
 <br>
-<div id="header" align="center">
+<footer style="display: flex; justify-content: center;">
   
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)
+[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yr72dpi)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)
-](https://www.buymeacoffee.com/yr72dpi)
-
-</div>
+</footer>
