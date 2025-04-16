@@ -73,7 +73,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 ## 📊 Mes statistiques GitHub
 
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
 
 ![YR72dpi's Repos Contributions](https://ghchart.rshah.org/YR72dpi)
 
@@ -94,7 +94,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 ---
 <br>
-<footer style="display: flex; justify-content: center;">
+<footer align="center" style="display: flex; justify-content: center;">
   
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)
