@@ -1,10 +1,10 @@
-<section>
+<header>
 
 # 👋 Bonjour
 
 Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
-</section>
+</header>
 
 <section>
 
