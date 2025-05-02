@@ -1,10 +1,10 @@
-<div class="hideOnPortfolio">
+<header>
   
 # 👋 Bonjour
 
 Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
-</div>
+</header>
 
 <section>
 
@@ -12,7 +12,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 - 🧔 Ylan, 22 ans
 - 🏡 Rouen
 - 🏢 En alternance chez [Recov'Up](https://recovup.fr/)
-- 🌱 Je suis actuellement en train d'apprendre Go, Traefik.
+- 🌱 Je suis actuellement en train d'apprendre Go, Traefik & gRPC.
 - 💼 Actuellement, je travaille sur [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
 - 🎯 Mes objectifs : me faire kiffer sur des projets sympa
 - ⚡ Fun fact : j'ai plombé un serveur en activant ufw sans autorisé le port ssh 🤡
@@ -63,9 +63,10 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 </section>
 
 
-<section  align="center">
 
 ## 📊 Mes statistiques GitHub
+
+<section  align="center">
 
 ![YR72dpi's Repos Contributions](https://ghchart.rshah.org/YR72dpi)
 
@@ -78,11 +79,11 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 ---
 <br>
 
-<div align="center" class="hideOnPortfolio">
+<footer align="center">
   
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)
 ](https://www.buymeacoffee.com/yr72dpi)
 
-</div>
+</footer>
