@@ -1,4 +1,4 @@
-<header>
+<header class="hideOnPortfolio">
 
 # 👋 Bonjour
 
@@ -78,7 +78,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 <br>
 
-<footer align="center">
+<footer class="hideOnPortfolio" align="center">
   
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)
