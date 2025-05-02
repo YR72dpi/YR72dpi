@@ -17,12 +17,12 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 - 🎯 Mes objectifs : me faire kiffer sur des projets sympa
 - ⚡ Fun fact : j'ai plombé un serveur en activant ufw sans autorisé le port ssh 🤡
 
-
 </section>
 
 <section>
 
 ## 🛠️ Langages et outils en vrac
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
@@ -62,8 +62,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 </section>
 
-
-<section  align="center">
+<section align="center">
 
 ## 📊 Mes statistiques GitHub
 
@@ -76,12 +75,14 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 </section>
 
 ---
+
 <br>
+
 <footer align="center">
   
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)
-](https://www.buymeacoffee.com/yr72dpi)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)
+[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yr72dpi)
 
 </footer>
