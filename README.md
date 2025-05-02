@@ -12,7 +12,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 - 🧔 Ylan, 22 ans
 - 🏡 Rouen
 - 🏢 En alternance chez [Recov'Up](https://recovup.fr/)
-- 🌱 Je suis actuellement en train d'apprendre Go, Traefik.
+- 🌱 Je suis actuellement en train d'apprendre Go, Traefik & gRPC.
 - 💼 Actuellement, je travaille sur [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
 - 🎯 Mes objectifs : me faire kiffer sur des projets sympa
 - ⚡ Fun fact : j'ai plombé un serveur en activant ufw sans autorisé le port ssh 🤡
