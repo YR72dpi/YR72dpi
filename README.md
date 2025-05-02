@@ -1,5 +1,5 @@
 <header>
-  
+
 # 👋 Bonjour
 
 Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
@@ -12,7 +12,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 - 🧔 Ylan, 22 ans
 - 🏡 Rouen
 - 🏢 En alternance chez [Recov'Up](https://recovup.fr/)
-- 🌱 Je suis actuellement en train d'apprendre Go, Traefik & gRPC.
+- 🌱 Je suis actuellement en train d'apprendre Go, Traefik.
 - 💼 Actuellement, je travaille sur [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
 - 🎯 Mes objectifs : me faire kiffer sur des projets sympa
 - ⚡ Fun fact : j'ai plombé un serveur en activant ufw sans autorisé le port ssh 🤡
@@ -62,24 +62,26 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 </section>
 
-<section align="center">
-  
+
+<section  align="center">
+
 ## 📊 Mes statistiques GitHub
 
 ![YR72dpi's Repos Contributions](https://ghchart.rshah.org/YR72dpi)
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YR72dpi?cardType=level&theme=default&preferLogin=false&border=false)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YR72dpi?cardType=level&theme=default&preferLogin=false&border=false)](https://git.io/awesome-stats-card)
+
 ![YR72dpi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YR72dpi&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 </section>
 
 ---
 <br>
-
 <footer align="center">
   
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)
-[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yr72dpi)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YR72dpi)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ylanrousselle/)[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat-square)](https://www.threads.net/@ylanrousselle)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)
+](https://www.buymeacoffee.com/yr72dpi)
 
 </footer>
