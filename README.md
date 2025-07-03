@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 <section>
 
 ## 🌟 À propos de moi
-- 🧔 Ylan, 22 ans
+- 🧔 Ylan, 23 ans
 - 🏡 Rouen
 - 🏢 En alternance chez [Recov'Up](https://recovup.fr/)
 - 🌱 Je suis actuellement en train d'apprendre Go, Traefik & gRPC.
