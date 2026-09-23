@@ -13,7 +13,7 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 - 🏡 Rouen
 - 🏢 En recherche d'emploie
 - 🌱 Je suis actuellement en train d'apprendre python.
-- 💼 Actuellement, je travaille sur differents petits projet notemment lié à Meshtastic.
+- 💼 Actuellement, je travaille sur differents petits projet notemment liés à Meshtastic.
 - 🎯 Mes objectifs : me faire plaisir sur des projets sympas
 - ⚡ Fun fact : j'ai planté un serveur en activant UFW sans avoir autorisé le port SSH, un classique 🤡
 
