@@ -70,8 +70,6 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YR72dpi?cardType=level&theme=default&preferLogin=false&border=false)](https://git.io/awesome-stats-card)
 
-![YR72dpi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YR72dpi&theme=default&show_icons=true&hide_border=true&layout=compact)
-
 </section>
 
 ---
