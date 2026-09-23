@@ -11,9 +11,9 @@ Bienvenue sur mon profil GitHub ! Voici un aperçu de ce que je fais.
 ## 🌟 À propos de moi
 - 🧔 Ylan, 23 ans
 - 🏡 Rouen
-- 🏢 En alternance chez [Recov'Up](https://recovup.fr/)
-- 🌱 Je suis actuellement en train d'apprendre Go, Traefik & gRPC.
-- 💼 Actuellement, je travaille sur [Secured Whisker](https://github.com/YR72dpi/SecuredWhisker).
+- 🏢 En recherche d'emploie
+- 🌱 Je suis actuellement en train d'apprendre python.
+- 💼 Actuellement, je travaille sur differents petits projet notemment lié à Meshtastic.
 - 🎯 Mes objectifs : me faire plaisir sur des projets sympas
 - ⚡ Fun fact : j'ai planté un serveur en activant UFW sans avoir autorisé le port SSH, un classique 🤡
 
